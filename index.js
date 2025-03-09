@@ -1,3 +1,3 @@
-const a = 2
-const b = 3
+const a = 312
+const b = 789
 console.log(a+b)
